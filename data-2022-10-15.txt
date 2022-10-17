@@ -3657,7 +3657,3 @@
 6.8 12.6 1665389843.5915174
 6.7 12.5 1665389844.59405
 6.8 12.7 1665389845.5969942
-Traceback (most recent call last):
-  File "/home/pi/Scifair/scifaircode.py", line 16, in <module>
-    time.sleep(1)
-KeyboardInterrupt
